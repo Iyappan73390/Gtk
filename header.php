@@ -32,7 +32,7 @@
             <!-- <h1>LOGO</h1> -->
             <a href="home.php"><img src="./images/logo.png" class="innernavlogo"></a>
             <ul>
-                <li><a href="home.php">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a>About us</a></li> 
                 <li><a href="ongoing-project.php">Ongoing Projects</a></li>
                 <li><a>Completed Projects</a></li>
